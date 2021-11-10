@@ -8,6 +8,6 @@ At this time my goal is only show my first game made in Game Maker Studio.
 
 Let's enjoy! 
 
-[**[See more screens]**](https://url.com)
+[**[See more screens]**](https://github.com/ebsouza/SimonsNightmare/tree/master/assets)
 
 ## By Ebsouza
